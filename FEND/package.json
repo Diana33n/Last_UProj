@@ -11,6 +11,9 @@
   },
   "author": "Your Name",
   "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "body-parser": "^1.19.0",
